@@ -18,6 +18,7 @@ This dataset contains data on Amazon Prime titles, including movies and TV shows
 # BI Tool
 * Tableau
   ## [Click here](https://public.tableau.com/views/AmazonPrimeVideo_17309748062670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1440" alt="Dashboard" src="https://github.com/user-attachments/assets/852a06c8-e339-4034-81f8-bc0dc10b6bac">
 
 # Insights
 
